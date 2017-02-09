@@ -54,23 +54,7 @@ a:hover {
 .nav a:hover {
   color: white
 }
-/*
-a.language {
-  margin-left: 5px;
-  text-indent: -9999px;
-  width: 30px;
-  height: 30px;
-  background-size: 30px 30px;
 
-}
-a.english {
-  background-image: url(images/UnitedKingdom.png);
-}
-
-a.spanish {
-  background-image: url(images/Spain.png);
-}
-*/
 .exp-nav {
   display: flex;
 }
@@ -125,8 +109,9 @@ header .profile-image:hover {
 }
 
 .flex-exp {
-  margin-top: 60px;
+  padding-top: 60px;
 }
+
 .card:hover {
   border-color: #666699;
 }
